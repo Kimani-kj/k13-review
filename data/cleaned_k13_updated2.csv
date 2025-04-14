@@ -1,0 +1,342 @@
+,pmid,year_pub,year_sample,country,region/province,town,participants_age,participants_age unit,sample size,first line ACT,genotyping assay,study population,samples genotyped,k13  validated mutations,type of mutation,mutation frequency (%),where_sequenced,other k13 mutations,data_extraction_comments,journal_access,Latitude,Longitude
+0,34551228,2021,2015-2019,UGANDA,Northern Uganda,Gulu,≥0.5,years,274,AL,Direct ,symptomatic,240,A675V,non-synonymous,27,missing,-,raw counts,open,1.373,32.29
+1,34551228,2021,2015-2029,UGANDA,Northern Uganda,Gulu,≥0.5,years,274,AL,Direct ,symptomatic,240,C469Y,non-synonymous,5,missing,-,raw counts,Open,1.373,32.29
+2, 35703955,2022,missing,DRC,Central DRC,Kinshasha,03-Jun,years,118,"AS,AQ",missing,symptomatic,118,-,missing,0,missing,"A578S, Q613E, S522C",raw counts,Open,4.038,21.759
+3,36036611,2022,2016-2017,KENYA,Western Kenya,Siaya,<5,years,340,AL,Nested PCR,symptomatic,340,-,missing,0,missing,-,raw counts,Open,0.0234,37.906
+4,39136468,2024,2015-2023,UGANDA,Eastern Uganda,"Tororo, Busia, Mbale",>0.5,years,1112,AL,Sanger,symptomatic,1112,C469Y,non-synonymous,4,missing,A578S,raw_counts,Open,1.373,32.29
+5,39136468,2024,2015-2023,UGANDA,Eastern Uganda,"Tororo, Busia, Mbale",>0.5,years,1112,AL,Sanger,symptomatic,1112,A675V,non-synonymous,3,missing,-,raw_counts,Open,1.373,32.29
+6,34641867,2021,2018,MOZAMBIQUE,"Cabo Delgado, Tete, Zambézia, Inhambane Province","Montepuez, Moatize, Mopeia, Massinga",0.5 -  5,years,641,"AL, ASAQ",sanger,symptomatic,109,-,,0,"CDC, Atlanta","TGC469TGT, GGC548GGT",none,Open,18.666,35.529
+7,26483118,2015,2013-2014,ETHIOPIA,(Amhara Regional State)Northwest,Addis Zemen,Jan-69,years,31,AL,sanger,symptomatic,28,-,missing,0,"University of Calgary, Canada",-,raw counts,Open,9.145,40.489
+8,26483118,2015,2013-2014,ETHIOPIA,(Amhara Regional State)Northwest,Aykel,Jan-69,years,15,AL,sanger,symptomatic,15,R622I,non-synonymous,1(6.7),"University of Calgary, Canada",-,raw counts,Open,9.145,40.489
+9,26483118,2015,2013-2014,ETHIOPIA,(Amhara Regional State)Northwest,Maksegnet,Jan-69,years,49,AL,sanger,symptomatic,43,-,missing,0,"University of Calgary, Canada",-,raw counts,Open,9.145,40.489
+10,26483118,2015,2013-2014,ETHIOPIA,(Amhara Regional State)Northwest,Negade Bahir,Jan-69,years,31,AL,sanger,symptomatic,18,R622I,non-synonymous,2(11.1),"University of Calgary, Canada",-,raw counts,Open,9.145,40.489
+11,26483118,2015,2013-2014,ETHIOPIA,(Amhara Regional State)Northwest,Sanja,Jan-69,years,22,AL,sanger,symptomatic,21,-,missing,0,"University of Calgary, Canada",-,raw counts,Open,9.145,40.489
+12,36451216,2022,2017,ETHIOPIA,Benishangul Gumuz,Pawe,>0.5,years,379,AL,sanger ,symptomatic,50,-,missing,0,"CDC, Atlanta",E433D,raw counts,Open,9.145,40.489
+13,36451216,2022,2017,ETHIOPIA,Southern Nations and Nationalities Peoples' (SNNP),Gamu-Gofa,>0.5,years,379,AL,sanger ,symptomatic,50,-,missing,0,"CDC, Atlanta",-,raw counts,Open,9.145,40.489
+14,29718283,2018,2013-2014,DRC,missing,missing,missing,missing,1622,"AS,AQ",illumina,missing,331,-,missing,0,University of Massachussets,-,raw counts,Open,4.038,21.759
+15,39159629,2024,2021,TANZANIA,Dar es salaam,missing,>0.5,years,570,AL,Illumina (NextSeq),symptomatic,137,R561H,non synonymous,0,University of North Carolina,"R255K, L258M",raw counts,Open,6.369,34.889
+16,39159629,2024,2021,TANZANIA,Dar es salaam,missing,>0.5,years,570,AL,Illumina (NextSeq),symptomatic,135,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+17,39159629,2024,2021,TANZANIA,Dar es salaam,missing,>0.5,years,570,AL,Illumina (NextSeq),symptomatic,161,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+18,39159629,2024,2021,TANZANIA,Dodoma,missing,>0.5,years,594,AL,Illumina (NextSeq),symptomatic,158,R561H,non synonymous,0,University of North Carolina,"R255K, L258M, K189T",raw counts,Open,6.369,34.889
+19,39159629,2024,2021,TANZANIA,Dodoma,missing,>0.5,years,594,AL,Illumina (NextSeq),symptomatic,188,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+20,39159629,2024,2021,TANZANIA,Dodoma,missing,>0.5,years,594,AL,Illumina (NextSeq),symptomatic,182,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+21,39159629,2024,2021,TANZANIA,Kagera,missing,>0.5,years,988,AL,Illumina (NextSeq),symptomatic,649,R561H,non synonymous,50(7.7),University of North Carolina,"A175T, A578S, R255K, N133K, N137D, N137K, N217H, N264S, Q271L, E208K, G112E, H384R, I205T, L116I, L258M, K189N, K189T, F699C, P419S, P667S, S182T, T149S, T207K",raw counts,Open,6.369,34.889
+22,39159629,2024,2021,TANZANIA,Kagera,missing,>0.5,years,988,AL,Illumina (NextSeq),symptomatic,709,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+23,39159629,2024,2021,TANZANIA,Kagera,missing,>0.5,years,988,AL,Illumina (NextSeq),symptomatic,680,A675V,non synonymous,1(0.1),University of North Carolina,,raw counts,Open,6.369,34.889
+24,39159629,2024,2021,TANZANIA,Kigoma,missing,>0.5,years,166,AL,Illumina (NextSeq),asymptomatic,73,R561H,non synonymous,0,University of North Carolina,"R255K, L258M, K189T",raw counts,Open,6.369,34.889
+25,39159629,2024,2021,TANZANIA,Kigoma,missing,>0.5,years,166,AL,Illumina (NextSeq),asymptomatic,94,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+26,39159629,2024,2021,TANZANIA,Kigoma,missing,>0.5,years,166,AL,Illumina (NextSeq),asymptomatic,100,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+27,39159629,2024,2021,TANZANIA,Kilimanjaro,missing,>0.5,years,583,AL,Illumina (NextSeq),symptomatic,172,R561H,non synonymous,0,University of North Carolina,"R255K, L258M, K108E, K189T",raw counts,Open,6.369,34.889
+28,39159629,2024,2021,TANZANIA,Kilimanjaro,missing,>0.5,years,583,AL,Illumina (NextSeq),symptomatic,198,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+29,39159629,2024,2021,TANZANIA,Kilimanjaro,missing,>0.5,years,583,AL,Illumina (NextSeq),symptomatic,204,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+30,39159629,2024,2021,TANZANIA,Manyara,missing,>0.5,years,557,AL,Illumina (NextSeq),symptomatic,179,R561H,non synonymous,1(0.6),University of North Carolina,"R255k, H136N, L258M, K189T",raw counts,Open,6.369,34.889
+31,39159629,2024,2021,TANZANIA,Manyara,missing,>0.5,years,557,AL,Illumina (NextSeq),symptomatic,202,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+32,39159629,2024,2021,TANZANIA,Manyara,missing,>0.5,years,557,AL,Illumina (NextSeq),symptomatic,202,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+33,39159629,2024,2021,TANZANIA,Mara,missing,>0.5,years,918,AL,Illumina (NextSeq),symptomatic,535,R561H,non synonymous,0,University of North Carolina,"A578S, R255K, N133K, N137D, N137K, N217H, N264S, Q271L, G112E, H136N, L116I, L177I, L258M, L99V, K108E, K124N, K189N, K189T, S182, T149T, T207K, T348I, V555A",raw counts,Open,6.369,34.889
+34,39159629,2024,2021,TANZANIA,Mara,missing,>0.5,years,918,AL,Illumina (NextSeq),symptomatic,578,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+35,39159629,2024,2021,TANZANIA,Mara,missing,>0.5,years,918,AL,Illumina (NextSeq),symptomatic,585,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+36,39159629,2024,2021,TANZANIA,Mtwara,missing,>0.5,years,882,AL,Illumina (NextSeq),symptomatic,137,R561H,non synonymous,0,University of North Carolina,"A578S, R255K, L258M",raw counts,Open,6.369,34.889
+37,39159629,2024,2021,TANZANIA,Mtwara,missing,>0.5,years,882,AL,Illumina (NextSeq),symptomatic,144,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+38,39159629,2024,2021,TANZANIA,Mtwara,missing,>0.5,years,882,AL,Illumina (NextSeq),symptomatic,170,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+39,39159629,2024,2021,TANZANIA,Njombe,missing,>0.5,years,573,AL,Illumina (NextSeq),symptomatic,279,R561H,non synonymous,1(0.4),University of North Carolina,"R255K, H136N, L258M, K189T, K9R, P667T, S182T",raw counts,Open,6.369,34.889
+40,39159629,2024,2021,TANZANIA,Njombe,missing,>0.5,years,573,AL,Illumina (NextSeq),symptomatic,345,R622I,non synonymous,1(0.3),University of North Carolina,,raw counts,Open,6.369,34.889
+41,39159629,2024,2021,TANZANIA,Njombe,missing,>0.5,years,573,AL,Illumina (NextSeq),symptomatic,331,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+42,39159629,2024,2021,TANZANIA,Ruvuma,missing,>0.5,years,202,AL,Illumina (NextSeq),asymptomatic,38,R561H,non synonymous,0,University of North Carolina,"R255K, N217H, L258M, K189N, K189T",raw counts,Open,6.369,34.889
+43,39159629,2024,2021,TANZANIA,Ruvuma,missing,>0.5,years,202,AL,Illumina (NextSeq),asymptomatic,68,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+44,39159629,2024,2021,TANZANIA,Ruvuma,missing,>0.5,years,202,AL,Illumina (NextSeq),asymptomatic,68,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+45,39159629,2024,2021,TANZANIA,Songwe,missing,>0.5,years,620,AL,Illumina (NextSeq),symptomatic,346,R561H,non synonymous,0,University of North Carolina,"A578S, R255K, H384R, L258M, K189T, S182T, T149S",raw counts,Open,6.369,34.889
+46,39159629,2024,2021,TANZANIA,Songwe,missing,>0.5,years,620,AL,Illumina (NextSeq),symptomatic,377,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+47,39159629,2024,2021,TANZANIA,Songwe,missing,>0.5,years,620,AL,Illumina (NextSeq),symptomatic,362,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+48,39159629,2024,2021,TANZANIA,Tabora,missing,>0.5,years,864,AL,Illumina (NextSeq),symptomatic,438,R561H,non synonymous,2(0.5),University of North Carolina,"A578S, R255K, N133K, N137D, N137K, N217H, N264S, H136N, I205T, L116I, L258M, L99V, K124N, K189N, K189T, P419S, S182T, T149S",raw counts,Open,6.369,34.889
+49,39159629,2024,2021,TANZANIA,Tabora,missing,>0.5,years,864,AL,Illumina (NextSeq),symptomatic,498,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+50,39159629,2024,2021,TANZANIA,Tabora,missing,>0.5,years,864,AL,Illumina (NextSeq),symptomatic,464,A675V,non synonymous,1(0.2),University of North Carolina,,raw counts,Open,6.369,34.889
+51,39159629,2024,2021,TANZANIA,Tanga,missing,>0.5,years,265,AL,Illumina (NextSeq),asymptomatic,30,R561H,non synonymous,0,University of North Carolina,"R255K, H136N, K189T",raw counts,Open,6.369,34.889
+52,39159629,2024,2021,TANZANIA,Tanga,missing,>0.5,years,265,AL,Illumina (NextSeq),asymptomatic,45,R622I,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+53,39159629,2024,2021,TANZANIA,Tanga,missing,>0.5,years,265,AL,Illumina (NextSeq),asymptomatic,56,A675V,non synonymous,0,University of North Carolina,,raw counts,Open,6.369,34.889
+54,34615917,2021,2014-2015,KENYA,Western Kenya,"Mfangano, Ngodhe, Ungoye",missing,missing,48,AL,Illumina (Miseq),missing,29,-,missing,0,London School of Hygiene and Tropical Medicine,-,raw counts,Open,0.0234,37.906
+55,38712186,2024,2022,UGANDA,West Nile ,Adjumani,May-46,years,100,AL,sanger,symptomatic,80,C469Y,non-synonymous,10(12.5),Inqaba Biotec laboratory (South Africa),"A569S, A578S,F491S ",raw counts,Open,1.373,32.29
+56,38712186,2024,2022,UGANDA,West Nile ,Adjumani,May-46,years,100,AL,sanger,symptomatic,80,A675V,non-synonymous,2(2.5),Inqaba Biotec laboratory (South Africa),-,raw counts,Open,1.373,32.29
+57,34152946,2021,2017-2018,DRC,-,"Kabondo, Kapolowe,
+Rutshuru, Mikalayi,
+Kimpese",6–59,months,633,ASAQ,sanger,symptomatic,304,-,-,-,cdc,"P417P,R471R,S477S,T478T,A504A,S576S,S477Y,A578Y",raw counts,open,4.038,21.759
+58,34152946,2021,2016-2017,KENYA,Siaya,Siaya,6–59,months,417,AL,sanger,symptomatic,318,-,-,-,cdc,"P417P, V454V,C469C,R471R,A504A,G533G,S522C,A578Y",raw counts,open,0.0234,37.906
+59,34152946,2021,2016,TANZANIA,-,"Kibaha, Ujiji, Mkuzi, Mlimba",6–120,months,417,AL,sanger,symptomatic,325,-,-,-,cdc,"P417P,C469C,R471R,V487V,R539R,I416V,E433D,R471S,A578Y,Q613E",raw counts,open,6.369,34.889
+60,31034031,2019,missing,SUDAN,southeast sudan,"damazin, blue nile estate",missing,missing,31,,missing,symptomatic,28,-,-,-,macrogen,A621V,-,closed,12.863,30.218
+61,30898164,2019,2016,TANZANIA,"kibaha,tanga,morogoro,kigoma","yombo,mkuzi,mlimba,ujiji",6-120,months,344,AL,capillary electrophoresis,symptomatic,319,-,-,-,"cdc, atlanta","R471S,A578S,E433D,I416V,Q613E",-,open,6.369,34.889
+62,32795367,2020,2016-2017,KENYA,siaya,siaya,"""6-59""",months,433,AL,sanger,symptomatic,405,-,-,-,-,"S522C, A578S",raw counts,open,0.0234,37.906
+63,35266823,2022,2019,KENYA,western kenya,western kenya,"""4-18""",years,2247,AL,illumina miseq,asymptomatic,196,-,-,-,in country,"A569S, A578S",raw counts,open,0.0234,37.906
+64,31358588,2019,1999-2004,UGANDA,apac,apac,missing,-,112,AL,sanger,symptomatic,100,-,-,-,,"K610E, P615N",raw counts,open,1.373,32.29
+65,31358588,2019,2012-2016,UGANDA,apac,apac,missing,-,-,AL,sanger,symptomatic,-,-,-,-,,-,raw counts,open,1.373,32.29
+66,31358588,2019,1999-2004,UGANDA,arua,arua,missing,-,92,AL,sanger,symptomatic,86,-,-,-,,"V555A, A578S, N594K, L618S",raw counts,open,1.373,32.29
+67,31358588,2019,2012-2016,UGANDA,arua,arua,missing,-,-,AL,sanger,symptomatic,-,A675V,non-synonymous,"""1/40""",,"W470R, A578S",raw counts,open,1.373,32.29
+68,31358588,2019,1999-2004,UGANDA,jinja,jinja,missing,-,104,AL,sanger,symptomatic,99,-,,,,V581I,raw counts,open,1.373,32.29
+69,31358588,2019,2012-2016,UGANDA,jinja,jinja,missing,-,-,AL,sanger,symptomatic,-,-,,,,"K563E, A578S",raw counts,open,1.373,32.29
+70,31358588,2019,1999-2004,UGANDA,kampala,kampala,missing,-,101,AL,sanger,symptomatic,100,-,,,,V555A,raw counts,open,1.373,32.29
+71,31358588,2019,2012-2016,UGANDA,kampala,kampala,missing,-,-,AL,sanger,symptomatic,-,-,,,,"S522C, A578S",raw counts,open,1.373,32.29
+72,31358588,2019,1999-2004,UGANDA,kanungu,kanungu,missing,-,106,AL,sanger,symptomatic,100,-,,,,-,raw counts,open,1.373,32.29
+73,31358588,2019,2012-2016,UGANDA,kanungu,kanungu,missing,-,-,AL,sanger,symptomatic,-,-,,,,"I540T, G533A, V555A",raw counts,open,1.373,32.29
+74,31358588,2019,1999-2004,UGANDA,mubende,mubende,missing,-,112,AL,sanger,symptomatic,99,-,,,,"G496S, V555A, E567K, A578S",raw counts,open,1.373,32.29
+75,31358588,2019,2012-2016,UGANDA,mubende,mubende,missing,-,-,AL,sanger,symptomatic,-,C469Y,non-synonymous,"""1/66""",,-,raw counts,open,1.373,32.29
+76,31358588,2019,2012-2016,UGANDA,mubende,mubende,missing,-,-,AL,sanger,symptomatic,-,P574L,non-synonymous,"""1/66""",,-,raw counts,open,1.373,32.29
+77,31358588,2019,1999-2004,UGANDA,tororo,tororo,missing,-,109,AL,sanger,symptomatic,99,-,-,-,,"L457I, W565R",raw counts,open,1.373,32.29
+78,31358588,2019,2012-2016,UGANDA,tororo,tororo,missing,-,-,AL,sanger,symptomatic,-,-,-,-,,"I465T, L619S, C469F, M472V, Y558H, A569T, A569S, A578S, N594K, A617T",raw counts,open,1.373,32.29
+79,35511795,2022,2004-2006,UGANDA,Kampala,"Kampala, Jinja","""0.5-10""",years,200,AL,sanger,symptomatic,142,-,-,-,"ACGT Inc. (Wheeling IL, USA) commercial sequencing center","E596V,E643K,S600C,A578S,I587I,Y588N",raw counts,open,1.373,32.29
+80,26801909,2016,2009,KENYA,western kenya,mbita,"""8-120""",months,,AL,sanger,symptomatc,69,-,-,-,lstm,"A578S, P553P",-,open,0.0234,37.906
+81,26392510,2015,2010-2013,KENYA,western kenya,"siaya,bondo","""2-7""",years,203,AL,sanger,symptomatic,147,-,-,-,missing,-,-,open,0.0234,37.906
+82,25695257,2015,2012-2013,KENYA,mbita,"Kibuogi, Ngodhe, Takawiri, Mfangano,Ungoye","""1-32""",years,3168,AL,sanger,asymtpomatic/symptomatic,539,-,-,-,missing,"M442V, N554S, A569S, A578S, C439C, S477S, Y500Y, N531N, G538G",,open,0.0234,37.906
+83,38746440,2024,2022-2023,RWANDA,Rwanda,"Bugaragara,Busanza,Byahi,Gahanga,Gishubi,Giti,Jenda,Kibingo,Mareba,Masaka,Mushubati,Ngoma,Nkanka,Ntarama,Nyacyonga,Nyamagabe,Nyamata,Rukara,Solace,Tanda",missing,missing,2709,AL,Illumina NextSeq 550,symptomatic,missing,561H,non-synonymous,19,Brown University,"441L, 449A, 469F, 568G",percentage,open,1.94,29.874
+84,38746440,2024,2022-2023,RWANDA,Rwanda,"Bugaragara,Busanza,Byahi,Gahanga,Gishubi,Giti,Jenda,Kibingo,Mareba,Masaka,Mushubati,Ngoma,Nkanka,Ntarama,Nyacyonga,Nyamagabe,Nyamata,Rukara,Solace,Tanda",missing,missing,2709,AL,Illumina NextSeq 550,symptomatic,missing,574L,non-synonymous,0.7,Brown University,-,percentage,open,1.94,29.874
+85,38746440,2024,2022-2023,RWANDA,Rwanda,"Bugaragara,Busanza,Byahi,Gahanga,Gishubi,Giti,Jenda,Kibingo,Mareba,Masaka,Mushubati,Ngoma,Nkanka,Ntarama,Nyacyonga,Nyamagabe,Nyamata,Rukara,Solace,Tanda",missing,missing,2709,AL,Illumina NextSeq 550,symptomatic,missing,675V,non-synonymous,5,Brown University,-,percentage,open,1.94,29.874
+86,38746440,2024,2022-2023,TANZANIA,Tanzania,"Buhamira,Chamchuzi,Kanoni,Kibingo,Kitwechenkura,Rwenkende",missing,missing,1692,AL,Illumina NextSeq 550,symptomatic,missing,469Y,non-synonymous,0.1,Brown University,"441L, 469F",percentage,open,6.369,34.889
+87,38746440,2024,2022-2023,TANZANIA,Tanzania,"Buhamira,Chamchuzi,Kanoni,Kibingo,Kitwechenkura,Rwenkende",missing,missing,1692,AL,Illumina NextSeq 550,symptomatic,missing,561H,non-synonymous,12.1,Brown University,-,percentage,open,6.369,34.889
+88,38746440,2024,2022-2023,TANZANIA,Tanzania,"Buhamira,Chamchuzi,Kanoni,Kibingo,Kitwechenkura,Rwenkende",missing,missing,1692,AL,Illumina NextSeq 550,symptomatic,missing,574L,non-synonymous,0.3,Brown University,-,percentage,open,6.369,34.889
+89,38746440,2024,2022-2023,TANZANIA,Tanzania,"Buhamira,Chamchuzi,Kanoni,Kibingo,Kitwechenkura,Rwenkende",missing,missing,1692,AL,Illumina NextSeq 550,symptomatic,missing,675V,non-synonymous,0.1,Brown University,-,percentage,open,6.369,34.889
+90,38746440,2024,2022-2023,UGANDA,Uganda,"Biharwe,Kinoni,Kisoro",missing,missing,137,AL,Illumina NextSeq 550,symptomatic,missing,561H,non-synonymous,1.6,Brown University,"441L, 469F",percentage,open,1.373,32.29
+91,38746440,2024,2022-2023,DRC,DRC,"Butembo,CCLK	Heal Africa,Kanyabayonga,Kiwanja,Lubero,Minova,Rusayo,Rutshuru,Virunga",missing,missing,927,ASAQ,Illumina NextSeq 550,symptomatic,missing,675V,non-synonymous,0.8,Brown University,568G,percentage,open,4.038,21.759
+92,34491220,2021,2017-2018,DRC,kisangani,kabondo,"""6-59""",months,577,ASAQ,sanger,symptomatic,486,-,-,-,"cdc malaria lab, atlanta","P417P, C469C, R471R, S477S, T478T, G496G, Y511Y, R539R, S576S, S477Y",none,open,4.038,21.759
+93,34491220,2021,2017-2018,DRC,kasai,mikalayi,"""6-59""",months,577,ASAQ,sanger,symptomatic,486,-,-,-,"cdc malaria lab, atlanta",-,-,-,4.038,21.759
+94,34491220,2021,2017-2018,DRC,kongo central,kimpese,"""6-59""",months,577,ASAQ,sanger,symptomatic,486,-,-,-,"cdc malaria lab, atlanta",-,-,-,4.038,21.759
+95,33146722,2021,2018,UGANDA,-,Agago,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,1 (3.1),missing,-,none,open,1.373,32.29
+96,33146722,2021,2018,UGANDA,-,Amolatar,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+97,33146722,2021,2018,UGANDA,-,Arua,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+98,33146722,2021,2018,UGANDA,-,Hoima,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+99,33146722,2021,2018,UGANDA,-,Jinja,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+100,33146722,2021,2018,UGANDA,-,Kaabong,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,2 (5.9),missing,-,none,open,1.373,32.29
+101,33146722,2021,2018,UGANDA,-,Kabale,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,-,missing,-,none,open,1.373,32.29
+102,33146722,2021,2018,UGANDA,-,Kanungu,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+103,33146722,2021,2018,UGANDA,-,Kapchorwa,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,-,missing,-,none,open,1.373,32.29
+104,33146722,2021,2018,UGANDA,-,Kasese,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+105,33146722,2021,2018,UGANDA,-,Katakwi,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,2 (4.8),missing,-,none,open,1.373,32.29
+106,33146722,2021,2018,UGANDA,-,Koboko,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+107,33146722,2021,2018,UGANDA,-,Kole,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+108,33146722,2021,2018,UGANDA,-,Lamwo,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,7 (20.6),missing,-,none,open,1.373,32.29
+109,33146722,2021,2018,UGANDA,-,Mubende,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+110,33146722,2021,2018,UGANDA,-,Tororo,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+111,33146722,2021,2019,UGANDA,-,Agago,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,3 (15.8),missing,-,none,open,1.373,32.29
+112,33146722,2021,2019,UGANDA,-,Amolatar,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+113,33146722,2021,2019,UGANDA,-,Arua,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+114,33146722,2021,2019,UGANDA,-,Hoima,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+115,33146722,2021,2019,UGANDA,-,Jinja,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+116,33146722,2021,2019,UGANDA,-,Kaabong,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,1 (4.3),missing,-,none,open,1.373,32.29
+117,33146722,2021,2019,UGANDA,-,Kabale,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+118,33146722,2021,2019,UGANDA,-,Kanungu,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+119,33146722,2021,2019,UGANDA,-,Kapchorwa,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+120,33146722,2021,2019,UGANDA,-,Kasese,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+121,33146722,2021,2019,UGANDA,-,Katakwi,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,2 (6.2),missing,-,none,open,1.373,32.29
+122,33146722,2021,2019,UGANDA,-,Koboko,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+123,33146722,2021,2019,UGANDA,-,Kole,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,5 (17.9),missing,-,none,open,1.373,32.29
+124,33146722,2021,2019,UGANDA,-,Lamwo,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,6 (23.1),missing,-,none,open,1.373,32.29
+125,33146722,2021,2019,UGANDA,-,Mubende,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+126,33146722,2021,2019,UGANDA,-,Tororo,""">6""",months,,AL,sanger,symptomatic,796,C469Y,non-synonymous,0,missing,-,none,open,1.373,32.29
+127,33146722,2021,2018,UGANDA,-,Agago,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,1 (3),missing,-,none,open,1.373,32.29
+128,33146722,2021,2018,UGANDA,-,Amolatar,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+129,33146722,2021,2018,UGANDA,-,Arua,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+130,33146722,2021,2018,UGANDA,-,Hoima,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+131,33146722,2021,2018,UGANDA,-,Jinja,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+132,33146722,2021,2018,UGANDA,-,Kaabong,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,4 (10),missing,-,none,open,1.373,32.29
+133,33146722,2021,2018,UGANDA,-,Kabale,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,-,missing,-,none,open,1.373,32.29
+134,33146722,2021,2018,UGANDA,-,Kanungu,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+135,33146722,2021,2018,UGANDA,-,Kapchorwa,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,-,missing,-,none,open,1.373,32.29
+136,33146722,2021,2018,UGANDA,-,Kasese,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+137,33146722,2021,2018,UGANDA,-,Katakwi,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,2 (4.5),missing,-,none,open,1.373,32.29
+138,33146722,2021,2018,UGANDA,-,Koboko,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+139,33146722,2021,2018,UGANDA,-,Kole,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,1 (3.2),missing,-,none,open,1.373,32.29
+140,33146722,2021,2018,UGANDA,-,Lamwo,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,1 (2.9),missing,-,none,open,1.373,32.29
+141,33146722,2021,2018,UGANDA,-,Mubende,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+142,33146722,2021,2018,UGANDA,-,Tororo,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+143,33146722,2021,2019,UGANDA,-,Agago,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,5 (31.2),missing,-,none,open,1.373,32.29
+144,33146722,2021,2019,UGANDA,-,Amolatar,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+145,33146722,2021,2019,UGANDA,-,Arua,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,1 (4),missing,-,none,open,1.373,32.29
+146,33146722,2021,2019,UGANDA,-,Hoima,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+147,33146722,2021,2019,UGANDA,-,Jinja,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+148,33146722,2021,2019,UGANDA,-,Kaabong,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,9 (40.9),missing,-,none,open,1.373,32.29
+149,33146722,2021,2019,UGANDA,-,Kabale,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,1 (7.7),missing,-,none,open,1.373,32.29
+150,33146722,2021,2019,UGANDA,-,Kanungu,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+151,33146722,2021,2019,UGANDA,-,Kapchorwa,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+152,33146722,2021,2019,UGANDA,-,Kasese,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+153,33146722,2021,2019,UGANDA,-,Katakwi,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,2 (6.7),missing,-,none,open,1.373,32.29
+154,33146722,2021,2019,UGANDA,-,Koboko,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+155,33146722,2021,2019,UGANDA,-,Kole,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,2 (6.9),missing,-,none,open,1.373,32.29
+156,33146722,2021,2019,UGANDA,-,Lamwo,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,5 (22.7),missing,-,none,open,1.373,32.29
+157,33146722,2021,2019,UGANDA,-,Mubende,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+158,33146722,2021,2019,UGANDA,-,Tororo,""">6""",months,,AL,sanger,symptomatic,796,A675V,non-synonymous,0,missing,-,none,open,1.373,32.29
+159,25144768,2014,2006-2007; 2010-12,UGANDA,-,"apac,kanungu,tororo",missing,missing,224,AL,sanger,symptomatic,133,-,-,-,UCSF Genomics Core Facility,"K189T,K189N,F334L,L368L,F439F,I465T,Q467Q,S522S,Y558H,A578S,A617T,L619S,V637D",none,open,1.373,32.29
+160,33350925,2021,2019,RWANDA,Huye,"sovu, kabutare",>1,year,67,AL,missing,symptomatic,66,R561H,non-synonymous,"""3/66""",Eurofins Genomics,"C469F,G533A,V555A,A578S",raw counts,open,1.94,29.874
+161,33350925,2021,2019,RWANDA,Huye,"sovu, kabutare",>1,year,67,AL,missing,symptomatic,66,A675V,non-synonymous,"""1/66""",Eurofins Genomics,-,raw counts,open,1.94,29.874
+162,27573632,2016,2010,RWANDA,Huye,-,<5,years,85,AL,sanger,asymptomatic,75,-,-,-,missing,-,,open,1.94,29.874
+163,27573632,2016,2014,RWANDA,Huye,-,<5,years,missing,AL,sanger,asymptomatic,81,-,-,-,missing,-,,open,1.94,29.874
+164,27573632,2016,2015,RWANDA,HUYE,-,<5,YEAR,missing,AL,SANGER,ASYMPTOMATIC,66,P574L,NON-SYNONYMOUS,1/66 (0.02),MISSING,"V555A, A626S, D648H",,open,1.94,29.874
+165,27573632,2016,2015,RWANDA,HUYE,-,<5,YEAR,missing,AL,SANGER,ASYMPTOMATIC,66,A675V,NON-SYNONYMOUS,1/66 (0.02),MISSING,-,,open,1.94,29.874
+166,34270452,2021,2013-16,TANZANIA,Korogwe,Korogwe,missing,-,-,AL,sanger,symptomatic,48,-,-,,-,"A566C,G523A",raw counts,open,6.369,34.889
+167,32103124,2020,2019,TANZANIA,Kibiti,Kibiti,-,-,489,AL,miseq,symptomatic,422,R561H,non-synonymous,1/422,wellcome-sanger,"A578S,A359T,A427S,C469C,G538G,I354V,I526I,P417P,S624S,V487V",raw counts,open,6.369,34.889
+168,28420403,2017,2010,CONGO,sounthern,Brazzaville,"""1-9""",years,311,ASAQ,sanger,symptomatic,41,-,-,-,missing,"D464N, R539R, S549P, L598L, E602E, K669K",none,open,,
+169,28420403,2017,2014-15,CONGO,northern,talangai,"""1-10""",years,120,ASAQ,sanger,symptomatic,25,-,-,-,missing,"S466I,Q467H,N489N,G496G,I552M,N609N,F628L,",none,open,,
+170,32070355,2020,2015-16,SUDAN,southeast sudan,damazin,missing,missing,130,ASSP,Illumina MiSeq,symptomatic,79,-,-,-,"Wellcome Sanger Institute, UK","F375S, K378R, D389N, K430K, E433D, P443P, N594K",none,open,12.863,30.218
+171,39103358,2024,2018,KENYA,western,bungoma,missing,missing,53,AL,Illumina NovaSeq 6000,asymptomatic,38,-,-,-,"Eurofins Genomics, Germany","A578S, V568I, I416V, H384Y, Y328F, L258M, R255K, K189T",none,open,0.0234,37.906
+172,38876161,2024,2019,TANZANIA,northeast,tanga,"""5-15""",years,438,AL,Illumina MiSeq,asymptomatic,-,-,-,-,"Centre for translational Medicine and Parasitology (CMP), University of Copenhagen, Denmark","P443S, S459, G496S, G497D, V520I, G591E, A676T, N689S, G690D",none,open,6.369,34.889
+173,38840941,2021,2014,ERITREA,"Zoba Debub,Zoba Anseba,Zoba Gash Barka","Adi Quala,Keren,Barentu",>20,years,41,ASSP,Sanger,symptomatic,6,-,-,-,"Macrogen-Seoul, Korea",-,none,open,15.179,39.782
+174,38287365,2024,2018,KENYA,western kenya,kombewa,>4,years,177,AL,Sanger,asymptomatic,46,-,-,-,missing,"G533G,P655P,G690G",raw counts,open,0.0234,37.906
+175,38287365,2024,2019,KENYA,western kenya,kombewa,>4,years,177,AL,Sanger,asymptomatic,48,-,-,-,missing,"G533G,G690G,A582V",raw counts,open,0.0234,37.906
+176,38287365,2024,2021,KENYA,western kenya,kombewa,>4,years,177,AL,Sanger,asymptomatic,64,-,-,-,missing,T535T,raw counts,open,0.0234,37.906
+177,38287365,2024,2022,KENYA,western kenya,kombewa,>4,years,177,AL,Sanger,asymptomatic,21,-,-,-,missing,I646L,raw counts,open,0.0234,37.906
+178,38287365,2024,2018,KENYA,western kenya,Homabay,>4,years,463,AL,Sanger,"symptomatic,asymptomatic",109,-,-,-,missing,"G690G,A582V",raw counts,open,0.0234,37.906
+179,38287365,2024,2019,KENYA,western kenya,Homabay,>4,years,463,AL,Sanger,"symptomatic,asymptomatic",92,-,-,-,missing,"G533G,H560H",raw counts,open,0.0234,37.906
+180,38287365,2024,2021,KENYA,western kenya,Homabay,>4,years,463,AL,Sanger,asymptomatic,59,-,-,-,missing,-,raw counts,open,0.0234,37.906
+181,38287365,2024,2022,KENYA,western kenya,Homabay,>4,years,463,AL,Sanger,asymptomatic,156,-,-,-,missing,"V637V,E643E,A578S,A582V",raw counts,open,0.0234,37.906
+182,38287365,2024,2019,KENYA,western kenya,kakamega,>4,years,123,AL,Sanger,asymptomatic,106,-,-,-,missing,"A569S,A578S,A582V,P667S",raw counts,open,0.0234,37.906
+183,38287365,2024,2021,KENYA,western kenya,kakamega,>4,years,123,AL,Sanger,asymptomatic,12,A675V,non-synonymous,3 (25),missing,"V637V,C469C,A578S",raw counts,open,0.0234,37.906
+184,38287365,2024,2022,KENYA,western kenya,kakamega,>4,years,123,AL,Sanger,asymptomatic,5,-,-,-,missing,"C469C,A578S",raw counts,open,0.0234,37.906
+185,38287365,2024,2019,KENYA,western kenya,kisii,>4,years,12,AL,Sanger,asymptomatic,6,-,-,-,missing,-,raw counts,open,0.0234,37.906
+186,38287365,2024,2021,KENYA,western kenya,kisii,>4,years,12,AL,Sanger,asymptomatic,6,-,-,-,missing,-,raw counts,open,0.0234,37.906
+187,38287365,2024,2022,ETHIOPIA,eastern ,dire dawa,>4,years,50,AL,Sanger,symptomatic,50,R622I,1 (2),-,missing,-,raw counts,open,9.145,40.489
+188,38287365,2024,2018,ETHIOPIA,western,arjo,>4,years,91,AL,Sanger,symptomatic,32,-,-,-,missing,-,none,open,9.145,40.489
+189,38287365,2024,2019,ETHIOPIA,western,arjo,>4,years,91,AL,Sanger,symptomatic,32,-,-,-,missing,-,none,open,9.145,40.489
+190,38287365,2024,2020,ETHIOPIA,western,arjo,>4,years,91,AL,Sanger,symptomatic,27,-,-,-,missing,A582V,none,open,9.145,40.489
+191,38287365,2024,2018,ETHIOPIA,western,gambella,>4,years,133,AL,Sanger,"symptomatic,asymptomatic",30,-,-,-,missing,-,none,open,9.145,40.489
+192,38287365,2024,2019,ETHIOPIA,western,gambella,>4,years,133,AL,Sanger,"symptomatic,asymptomatic",27,-,-,-,missing,-,none,open,9.145,40.489
+193,38287365,2024,2020,ETHIOPIA,western,gambella,>4,years,133,AL,Sanger,"symptomatic,asymptomatic",49,-,-,-,missing,-,none,open,9.145,40.489
+194,38287365,2024,2021,ETHIOPIA,western,gambella,>4,years,133,AL,Sanger,symptomatic,27,-,-,-,missing,-,none,open,9.145,40.489
+195,38287365,2024,2022,ETHIOPIA,northeastern,semera,>4,years,22,AL,Sanger,symptomatic,22,R622I,non-synonymous,3 (13.64),missing,-,raw counts,open,9.145,40.489
+196,38287365,2024,2022,ETHIOPIA,central,awash,>4,years,23,AL,Sanger,symptomatic,23,-,-,-,missing,-,none,open,9.145,40.489
+197,37452073,2023,2015-16,KENYA,homabay,ngodhe,all ages,years,3167,AL,Illumina MiSeq,"asymptomatic,symptomatic",102,-,-,-,missing,"A578S,F451Y",none,open,0.0234,37.906
+198,36894982,2023,2021,KENYA,kisii,kisii,>2,years,275,AL,sanger,symptomatic,6,R561H,non-synonymous,2 (0.3),"Eurofins Genomics, Germany","R539T,N458Y, N431S, A671V",raw counts,open,0.0234,37.906
+199,36100912,2022,2012,KENYA,siaya,asembo,>1,month,346,AL,sanger,asymptomatic,-,-,-,-,missing,-,none,open,0.0234,37.906
+200,36100912,2022,2012,KENYA,siaya,asembo,>1,month,346,AL,sanger,asymptomatic,-,-,-,-,missing,"""504, 510""",none,open,0.0234,37.906
+201,33663492,2021,2012-13,ETHIOPIA,west arsi,west arsi,-,-,-,AL,Illumina HiSeq,missing,34,-,-,-,Welcome Sanger Institute,K189T,none ,open,9.145,40.489
+202,31756512,2020,2015,KENYA,Kisumu,Nyando,<12,years,94,AL,missing,symptomatic,47,-,-,-,missing,W611S ,none,closed,0.0234,37.906
+203,29582728,2018,1995-2003,KENYA,lake region,Kisumu,"""0.5-65""",years,37,AL,sanger,symptomatic,37,-,-,-,missing,"S485K, N498I,  L505F,  W518C, R529K, N530K, V568G, A578S, N587K, A676V, T677K, T677R, T677S, L678V",none,open,0.0234,37.906
+204,29582728,2018,1995-2003,KENYA,coastal,Malindi,"""0.5-65""",years,27,AL,sanger,symptomatic,27,-,-,-,missing,"A504G, L505F, E509G,N530Y,G592E,E596R,A676V,T677R,L678V",none,open,0.0234,37.906
+205,29582728,2018,2013,KENYA,lake region,kisumu,"""0.5-65""",years,41,AL,sanger,symptomatic,41,-,-,-,missing,"E509G, V568G, D584Y,N585K, T677R",none,open,0.0234,37.906
+206,29582728,2018,2013,KENYA,lake region,kombewa,"""0.5-65""",years,47,AL,sanger,symptomatic,47,-,-,-,missing,"A578S, N585K, N609L, A676V, T677R, L678V",none,open,0.0234,37.906
+207,29582728,2018,2013,KENYA,highland,kericho,"""0.5-65""",years,43,AL,sanger,symptomatic,43,-,-,-,missing,"E509G, N585K, Y616N, E620K, R622G",none,open,0.0234,37.906
+208,29582728,2018,2013,KENYA,coastal,malindi,"""0.5-65""",years,39,AL,sanger,symptomatic,39,-,-,-,missing,"L505F, S522R, N530I, N531I, S536L, R539K, P570L, N585K, L598F, T677K, T677A",none,open,0.0234,37.906
+209,29582728,2018,2013,KENYA,semiarid seasonal,marigat,"""0.5-65""",years,34,AL,sanger,symptomatic,34,-,-,-,missing,"L505F,E509G, N585K",none,open,0.0234,37.906
+210,29582728,2018,2013,KENYA,highland,kisii,"""0.5-65""",years,47,AL,sanger,symptomatic,47,-,-,-,missing,"A578S, N585K",none,open,0.0234,37.906
+211,29363453,2018,2003,KENYA,western,kakamega,"""6-15""",years,29,AL,Illumina Hiseq,asymptomatic,29,-,-,-,Macrogen,,,,0.0234,37.906
+212,29363453,2018,2005,KENYA,western,kakamega,"""6-15""",years,40,AL,Illumina Hiseq,asymptomatic,40,-,-,-,Macrogen,"T474T, A569S",none,open,0.0234,37.906
+213,29363453,2018,2008,KENYA,western,kakamega,"""6-15""",years,35,AL,Illumina Hiseq,asymptomatic,35,-,-,-,Macrogen,-,none,open,0.0234,37.906
+214,29363453,2018,2015,KENYA,western,kakamega,"""6-15""",years,43,AL,Illumina Hiseq,asymptomatic,43,-,-,-,Macrogen,"C469W, C469C, R513S, A578S, R597R",none,open,0.0234,37.906
+215,29363453,2018,2003,KENYA,western,kombewa,"""6-15""",years,32,AL,Illumina Hiseq,asymptomatic,32,-,-,-,Macrogen,C469C,none,open,0.0234,37.906
+216,29363453,2018,2005,KENYA,western,kombewa,"""6-15""",years,31,AL,Illumina Hiseq,asymptomatic,31,-,-,-,Macrogen,N490S,none,open,0.0234,37.906
+217,29363453,2018,2008,KENYA,western,kombewa,"""6-15""",years,53,AL,Illumina Hiseq,asymptomatic,53,-,-,-,Macrogen,"L457I, E507E, G548G, A578S",none,open,0.0234,37.906
+218,29363453,2018,2015,KENYA,western,kombewa,"""6-15""",years,66,AL,Illumina Hiseq,asymptomatic,66,-,-,-,Macrogen,"I448M, S522C, A554S, A578S, I590F, E612D",none,open,0.0234,37.906
+219,34908849,2021,missing,UGANDA,Western Uganda,Bushenyi,all ages,years,283,AL,capillary electrophoresis,symptomatic,40,-,none,-,missing,"G1929A, A1788T, C1801G ",none,open,1.373,32.29
+220,34952573,2021,2018-2019,UGANDA,missing,"Kwania, Arua, Busia",0.5-10,years,599,AL,Sanger,symptomatic,338,-,none,-,"CDC Atlanta, USA",-,none,open,1.373,32.29
+221,10.1186/s12936-021-04023-3,2022,missing,UGANDA,South Western,Kisoro,0.2-81,years,152,AL,missing,symptomatic,122,-,none,-,missing,-,none,open,1.373,32.29
+222,36289202,2022,2021,UGANDA,Northen ,Agogo,>0.5,years,57,AL,missing,symptomatic,53,C469Y,non-synonymous,18(34),missing,G533A,none,open,1.373,32.29
+223,36289202,2022,2021,UGANDA,Northen ,Agogo,>0.5,years,,AL,missing,symptomatic,53,A675V,non-synonymous,7(13),missing,-,none,open,1.373,32.29
+224,36289202,2022,2021,UGANDA,Northen ,Agogo,>0.5,years,,AL,missing,symptomatic,53,A578S,non-synonymous,1(2),missing,-,none,open,1.373,32.29
+225,36289202,2022,2021,UGANDA,Eastern,"Tororo, Busiu, Masafu",>0.5,years,42,AL,missing,symptomatic,39,C469Y,non-synonymous,1(3),missing,-,none,open,1.373,32.29
+226,36289202,2022,2021,UGANDA,Eastern,"Tororo, Busiu, Masafu",>0.5,years,,AL,missing,symptomatic,39,A675V,non-synonymous,1(3),missing,-,none,open,1.373,32.29
+227,36289202,2022,2021,UGANDA,Eastern,"Tororo, Busiu, Masafu",>0.5,years,,AL,missing,symptomatic,39,A578S,non-synonymous,1(3),missing,-,none,open,1.373,32.29
+228,38352311,2024,2022,TANZANIA,Kagera,Bukangara(Karagwe),0.5-10,years,176,AL,capillary sequencing,symptomatic,173,R561H,non-synonymous,39(22.5),missing,-,none,open,6.369,34.889
+229,38712186,2024,2022,UGANDA,West-Nile,Adjumani,>5,years,100,AL,sanger,symptomatic,80,C469Y,non-synonymous,10 (12.50),"Inqaba Biotec, South Africa","A569S, A578S, F491S",raw counts,open,1.373,32.29
+230,38712186,2024,2022,UGANDA,West-Nile,Adjumani,>5,years,100,AL,sanger,symptomatic,80,A675V,non-synonymous,2 (2.50),-,-,raw counts,open,1.373,32.29
+231,39028193,2024,2018,UGANDA,-,kwania,<5,years,23,AL,sanger,symptomatic,23,-,-,-,missing,"Y546H,A578S",raw counts,open,1.373,32.29
+232,39028193,2024,2019,UGANDA,-,kwania,<5,years,25,AL,sanger,symptomatic,25,A675V,non-synonymous,1 (4),missing,A578S,raw counts,open,1.373,32.29
+233,39028193,2024,2020,UGANDA,-,kwania,<5,years,14,AL,sanger,symptomatic,14,A675V,non-synonymous,1 (7.1),missing,-,raw counts,open,1.373,32.29
+234,39028193,2024,2018,UGANDA,-,kole,<5,years,34,AL,sanger,symptomatic,34,A675V,non-synonymous,1 (3),missing,"C469C, Y511H, G533A, A578S, G533G, V581A, I646I, V650I",raw counts,open,1.373,32.29
+235,39028193,2024,2019,UGANDA,-,kole,<5,years,47,AL,sanger,symptomatic,47,C469Y,non-synonymous,3 (6.4),missing,Q654R,raw counts,open,1.373,32.29
+236,39028193,2024,2019,UGANDA,-,kole,<5,years,47,AL,sanger,symptomatic,47,A675V,non-synonymous,1 (2.1),missing,-,raw counts,open,1.373,32.29
+237,39028193,2024,2020,UGANDA,-,kole,<5,years,57,AL,sanger,symptomatic,57,C469Y,non-synonymous,7 (12.3),missing,"P475S, E620K,",raw counts,open,1.373,32.29
+238,39028193,2024,2020,UGANDA,-,kole,<5,years,57,AL,sanger,symptomatic,57,A675V,non-synonymous,2 (3.5),missing,-,raw counts,open,1.373,32.29
+239,39028193,2024,2018,UGANDA,-,oyam,<5,years,38,AL,sanger,symptomatic,38,-,non-synonymous,-,missing,"A504A, V517V, L631F",raw counts,open,1.373,32.29
+240,39028193,2024,2019,UGANDA,-,oyam,<5,years,55,AL,sanger,symptomatic,55,C469Y,non-synonymous,7 (12.7),missing,E461G. G625R,raw counts,open,1.373,32.29
+241,39028193,2024,2019,UGANDA,-,oyam,<5,years,55,AL,sanger,symptomatic,55,A675V,non-synonymous,1 (1.8),missing,-,raw counts,open,1.373,32.29
+242,39028193,2024,2020,UGANDA,-,oyam,<5,years,80,AL,sanger,symptomatic,80,C469Y,non-synonymous,8 (10),missing,"I448V, C469C, Y511H, R561R, A578S, Y630F",raw counts,open,1.373,32.29
+243,39028193,2024,2020,UGANDA,-,oyam,<5,years,80,AL,sanger,symptomatic,80,A675V,non-synonymous,1 (1.25),missing,-,raw counts,open,1.373,32.29
+244,34216470,2022,2018-2019,RWANDA,Kigali,-,>18,years,186,AL,Missing,symptomatic,184,R561H,Non-synonymous,16/73 (21.9),SwissTPH,"C469F, Q661E, P667S",raw counts,open,1.94,29.874
+245,34216470,2022,2018-2019,RWANDA,Kigali,-,>18,years,186,AL,Missing,symptomatic,184,P574L,Non-synonymous, 1/73 (1.4),-,-,raw counts,open,1.94,29.874
+246,30559133,2019,2016-2017,UGANDA,"Agago, Amolatar, Arua, Jinja, Kanungu, Kole, Lamwo, Mubende, Tororo, Kabale",-,0.5– 10,years,1459,AL,Missing,symptomatic,412,A675V,Non-synonymous,7/128(2),Makerere,A578S ,raw counts,Open,1.373,32.29
+247,30559133,2019,2016-2017,UGANDA,"Agago, Amolatar, Arua, Jinja, Kanungu, Kole, Lamwo, Mubende, Tororo, Kabale",-,0.5– 10,years,1459,AL,Missing,symptomatic,412,C469Y,Non-synonymous,2/128(1.4),-,-,raw counts,Open,1.373,32.29
+248,29553316,2018,2014-2016,UGANDA,Northern-Uganda,Gulu,2–4.5 ,years,249,AL,Missing,symptomatic,194,A675V,Non-synonymous, 1/194 (0.5),missing,"M472V, A621S, V666I",raw counts,Open,1.373,32.29
+249,29553316,2018,2014-2016,UGANDA,Northern-Uganda,Gulu,2–4.5 ,years,249,AL,Missing,symptomatic,194, C469Y,Non-synonymous,1/194 (0.5),-,-,raw counts,Open,1.373,32.29
+250,28968782,2017,2014-2016,UGANDA,Tororo District,-,-,-,300,AL,Missing,"asymptomatic, symptomatic",407,-,-,-,missing,"A569T, G638R, N594K",-,open,1.373,32.29
+251,28923866,2017,2010-2016,UGANDA,Tororo District,-,"""1-21""",years,58,AL,Missing,symptomatic,58,-,-,-,missing,"A569T, G638R, N594K",-,open,1.373,32.29
+252,28068997,2017,2014,UGANDA,Northern-Uganda,Gulu,"""1-5""",years,169,AL,Missing,symptomatic,146,-,-,-,missing,A578S ,-,open,1.373,32.29
+253,28039354,2017,"2012, 2013,2015",UGANDA,"Tororo, Jinja, and Kanungu","Nagongera , Walukuba , Kihihi ",<15,years,1486,AL,Missing,asymptomatic,1466,-,-,-,missing,"V555A, M472V, A569S, K563E, A578S",-,open,1.373,32.29
+254,27543172,2016,2013 – 2014,UGANDA,Northern-Uganda,"Lira, Gulu",>18,years,100,AL,Sanger,symptomatic,60,-,-,-,"MBN Clinical Laboratories, Kampala, Uganda","E509E,S522R, G533C",-,open,1.373,32.29
+255,26079933,2015,2011–2013,UGANDA,Jinja,Jinja ,1–8,years,78,AL,Sanger,symptomatic,78,-,-,-,"Makerere University, Uganda",A578S ,-,open,1.373,32.29
+256,39083679,2024,"2017–2018, 2020–2022",ETHIOPIA,"Amhara, Tigray, Gambella, Afar, Somali, Oromia, SNNPR ",-,12–25,years,233,AL,Sanger,symptomatic,275,R622I,Non-synonymous,31/44 (70.45),"University of Calgary, Canada","T535A, A504T, Y630F, N599I, S550F",raw counts,open,9.145,40.489
+257,37640962,2023,"2017–2018, 2020–2022",ETHIOPIA,"Amhara, Tigray, Gambella",-,0–99,years,609,AL,Missing,symptomatic,609,R622I,Non-synonymous,8,University of North Carolina at Chapel Hill,"K189T, E401Q, E433D",percentage,open,9.145,40.489
+258,31516103,2019,2007–2011,ETHIOPIA,"Serbo, Shele, Selekleka, Wondogenet",-,all ages,years,413,AL,Illumina MiSeq,symptomatic,413,-,-,-,University of North Carolina at Chapel Hill,-,-,closed,9.145,40.489
+259,28746333,2017,2014,ETHIOPIA,"Northern Highlands, Eastern Rift Valley, Southern Basin Area","Mankush, Bure, Shewa Robit, Metehara, Jimma, Halaba ",all ages,years,226,AL,Sanger ,symptomatic,226,-,-,-,University of North Carolina at Charlotte,-,-,open,9.145,40.489
+260,39159633,2024,2022,TANZANIA,Kagera ,Bukangara,0.5-10,years,176,AL,Capillary(Sanger),symptomatic,173,R561H,Non-synonymous,39/87(44.8),NIMR-Tanzania,-,raw count,open,6.369,34.889
+261,37170467,2023,2018,SOMALIA,Southern Somalia ,"Afgoi , Balad",all ages,years,150,AL,Missing,symptomatic,96,-,-,-,"Bioneer (Republic of Korea), Chulabhorn International College of Medicine (Thailand)",-,-,open,5.152,46.199
+262,31296223,2019,2016-2017,SOMALIA,"Middle Shabelle, Puntland","Jowhar, Bosaso",>0.5,years,339,"AL,DHA/PPQ",Sanger,symptomatic,139,R622I,Non-synonymous,1/139(0.7),Institut Pasteur (Cambodia),-,raw counts,open,5.152,46.199
+263,39159629,2024,2021,TANZANIA,"Dar es Salaam, Dodoma, Kagera, Kilimanjaro, Manyara, Mara, Mtwara, Njombe, Songwe, Tabora, Kigoma, Ruvuma, Tanga",-,>0.5,years,7782,AL,Missing,"asymptomatic, symptomatic",6855,R561H,Non-synonymous,54/3171(1.7),Swiss Tropical and Public Health Institute (SwissTPH),"C469F, P667S, Q661E ",raw counts,open,6.369,34.889
+264,39159629,2024,2021,TANZANIA,"Dar es Salaam, Dodoma, Kagera, Kilimanjaro, Manyara, Mara, Mtwara, Njombe, Songwe, Tabora, Kigoma, Ruvuma, Tanga",-,>0.5,years,7782,AL,Missing,"asymptomatic, symptomatic",6855,R622I,Non-synonymous,1/3581(0.03),-,-,raw counts,open,6.369,34.889
+265,39159629,2024,2021,TANZANIA,"Dar es Salaam, Dodoma, Kagera, Kilimanjaro, Manyara, Mara, Mtwara, Njombe, Songwe, Tabora, Kigoma, Ruvuma, Tanga",-,>0.5,years,7782,AL,Missing,"asymptomatic, symptomatic",6855,A675V,Non-synonymous,2/3565(0.1),-,-,raw counts,open,6.369,34.889
+266,38196592,2023,2021,RWANDA,Rukara,Rukara,≥18,years,273,AL,Missing,symptomatic,135,R561H ,Non-synonymous,20/85(23.5),Swiss Tropical and Public Health Institute (SwissTPH),"F699C , R575K",raw counts,open,1.94,29.874
+267,38196592,2023,2021,RWANDA,Rukara,Rukara,≥18,years,273,AL,Missing,symptomatic,135,A675V ,Non-synonymous, 6/94(6.4),-,-,raw counts,open,1.94,29.874
+268,38196592,2023,2021,RWANDA,Rukara,Rukara,≥18,years,273,AL,Missing,symptomatic,135,P574L ,Non-synonymous, 2/84(2.4),-,-,raw counts,open,1.94,29.874
+269,38092677,2024,2023,RWANDA,"Huye District, Southern Rwanda",-,1–73,years,212,AL,Sanger,symptomatic,212,R561H ,Non-synonymous,19/212(9),"Charité—Universitätsmedizin Berlin, Germany","578S,555A,C469F",raw counts,open,1.94,29.874
+270,38092677,2024,2023,RWANDA,"Huye District, Southern Rwanda",-,1–73,years,212,AL,Sanger,symptomatic,212,A675V ,Non-synonymous,12/212(5.7),-,-,raw counts,open,1.94,29.874
+271, 37986920,2023,2021,TANZANIA,"Kagera, Mara, Tabora, Manyara, Kigoma, Ruvuma, Songwe, Tanga, Dar es Salaam, Njombe",-,all ages,years,7782,AL,Missing,symptomatic,6278,R561H,Non-synonymous,54/3171(1.7),NIMR-Tanzania,-,raw counts,open,6.369,34.889
+272, 37986920,2023,2021,TANZANIA,"Kagera, Mara, Tabora, Manyara, Kigoma, Ruvuma, Songwe, Tanga, Dar es Salaam, Njombe",-,all ages,years,7782,AL,Missing,symptomatic,6278,R622I,Non-synonymous,1/3581(0.03),-,-,raw counts,open,6.369,34.889
+273, 37986920,2023,2021,TANZANIA,"Kagera, Mara, Tabora, Manyara, Kigoma, Ruvuma, Songwe, Tanga, Dar es Salaam, Njombe",-,all ages,years,7782,AL,Missing,symptomatic,6278,A675V,Non-synonymous,2/3565(0.06),-,-,raw counts,open,6.369,34.889
+274,37096145,2023,2014–2015,RWANDA,"Kirehe, Ngoma",-,all ages,years,1873,AL,Missing,symptomatic,351,R561H,Non-synonymous,4/351(1.14),"Brown University, USA ","V555A , C532W, G533A ",raw counts,open,1.94,29.874
+275,37754284,2023,2016,ERITREA,Western Eritrea,"Guluj, Shambuko, Tokombia, Akordat, Ghindae",≥0.5,years,852,"ASAQ,AL",Missing,symptomatic,818,R622I,Non-synonymous,24/278(8.6),"Institut Pasteur, Paris",-,raw counts,open,15.179,39.782
+276,37754284,2023,2017,ERITREA,Western Eritrea,"Guluj, Shambuko, Tokombia, Akordat, Ghindae",≥0.5,years,852,"ASAQ,AL",Missing,symptomatic,818,R622I,Non-synonymous,16/211 (7.6),-,-,raw counts,open,15.179,39.782
+277,37754284,2023,2019,ERITREA,Western Eritrea,"Guluj, Shambuko, Tokombia, Akordat, Ghindae",≥0.5,years,852,"ASAQ,AL",Missing,symptomatic,818,R622I,Non-synonymous,69/329(21),-,-,raw counts,open,15.179,39.782
+278,37754284,2023,2019,ERITREA,Western Eritrea,"Guluj, Shambuko, Tokombia, Akordat, Ghindae",≥0.5,years,852,"ASAQ,AL",Missing,symptomatic,818,R561H,Non-synonymous,1/329 (0.3),-,-,raw counts,open,15.179,39.782
+279,31369106,2019,2009-2016,SUDAN,-,-,all ages,years,-,AS+SP,Missing,symptomatic,-,-,-,-,missing,-,-,closed,12.863,30.218
+280,39136465,2024,2016-2017,UGANDA,Northern Uganda,"Kitgum , Pader ",15,years,142,AL,Missing,asymptomatic,78,C469Y,Non-synonymous,26/78(34),Kenya Medical Research Institute (KEMRI),-,raw counts,open,1.373,32.29
+281,38461239,2024,2016-2021,TANZANIA,"Kigoma, Mbeya, Morogoro, Mtwara, Mwanza, Pwani, Tabora, Tanga","Igombe, Ipinda, Yombo, Mkuzi, Mlimba, Nagaga, Simbo, Ujiji",0.5- 10,years,2015,AL,Sanger ,symptomatic,1778,R622I,Non-synonymous,"1/1,778 (0.06)",NIMR-Tanzania,"I416V, E433D, R471S, P475S, A578S, Q613E",raw counts,open,6.369,34.889
+282,28535801,2017,-,KENYA,Kisumu,-,0.5- 10,years,287,AL,Missing,symptomatic,287,-,-,-,missing,"S549P, P553P, A578S",-,open,0.0234,37.906
+283,38016502,2024,2020-2021, DEMOCRATIC REPUBLIC OF CONGO (DRC),"Tshopo Province, North Kivu Province, Kasai Central Province, Kongo Central Province, Haut Katanga Province, Tshuapa Province"," Kabondo, Rutshuru, Mikalayi, Kimpese, Kapolowe, Boende",0.5-5,years,1065,AS+AQ,Missing,symptomatic,1065,R561H ,Non-synonymous,1/1065 (0.094),"Centre for Medical Parasitology, University of Copenhagen","Q613E, V637I,P441L",raw counts,open,,
+284,34694871,2022,2019,UGANDA,Eastern Uganda,-,all ages,years,16,AL,Sanger,symptomatic,16,-,-,-,"makerere University, Uganda",-,-,open,1.373,32.29
+285,35388682,2022,-,UGANDA,Northern and Eastern Uganda,-,all ages,years,-,AL,Missing,symptomatic,-,A675V,Non-synonymous,-,Columbia University Irving Medical Center,-,-,open,1.373,32.29
+286,35388682,2022,-,UGANDA,Northern and Eastern Uganda,-,all ages,years,-,AL,Missing,symptomatic,-,C469Y,Non-synonymous,-,-,-,-,open,1.373,32.29
+287,35144535,2022,"2017, 2019",DEMOCRATIC REPUBLIC OF CONGO (DRC),"Kinshasa, Tshopo, Haut-Katanga, Equateur, Nord-Ubangi, Kwilu, Maniema, Lomami, Lualaba, Sud-Kivu","Kingasani, Kabondo, Lubumbashi, Bolenge, Karawa, Vanga, Kalima, Kamina, Fungurume, Katana",0–77,years,2157,AS+AQ,Missing,symptomatic,1711,-,-,-,University of Kinshasa (DRC) & University of Liège (Belgium),"A578S, M472L, D516A, V568M, S576T, D584E, Y588C",-,open,,
+288,35051550,2022,2019,DEMOCRATIC REPUBLIC OF CONGO (DRC),Kinshasa,-,"""6-14""",years,229,AS+AQ,Missing,"asymptomatic, symptomatic",153,-,-,-,missing,"C532S , Q613E ",-,open,,
+289,33706773,2021,2018-2019,DEMOCRATIC REPUBLIC OF CONGO (DRC),"Kinshasa, Kisangani, Equateur, Kwilu, Lualaba, Sud-Kivu",-,0-76,years,474,AS+AQ,Missing,symptomatic,325,-,-,-,"University of Liège, Belgium",-,-,open,,
+290,32822392,2020,2017,DEMOCRATIC REPUBLIC OF CONGO (DRC),"Kinshasa, Kisangani, Lubumbashi, Bolenge, Karawa, Vanga, Kalima, Kamina, Fungurume, Katana",-,0-74 ,years,1070,AS+AQ,Missing,symptomatic,717,-,-,-,"University of Liège, Belgium",-,-,open,,
+291,30373565,2018,2015–2016,DEMOCRATIC REPUBLIC OF CONGO (DRC),Brazzaville,"Talangaï, Mfilou, Poto-Poto",0.5–84 ,years,806,AS+AQ,Missing,symptomatic,127,-,-,-,"Laboratoire National de Santé Publique, Republic of Congo",A578S,-,open,,
+292,28594879,2017,2014,DEMOCRATIC REPUBLIC OF CONGO (DRC),"Bolenge, Luzizila, Mweka, Punia, Kapolowe, Butembo",-,all ages,years,580,AS+AQ,Missing,symptomatic,261,-,-,-,"University of Liège, Belgium","F495L, S522C, V520A, M476K, N523T, E509D",-,open,,
+293,39425178,2024,2022,KENYA,Busia,-,all ages,years,226,AL,Sanger,symptomatic,226,C469Y,Non-synonymous,14/226(6.2),"Nagasaki University, Japan",-,raw counts,open,0.0234,37.906
+294,10.2139/ssrn.4938046,2024,2021-2022,ETHIOPIA,missing,missing,≥18,years,199,AL,Illumina iSeq100,symptomatic,195,R622I,non-synonymous,90/195(46.4),missing,"K189T, V714D, R716I, M18T, E401Q, H136N, N135H",raw_counts (percentage),open,9.145,40.489
+295,29582728,2018,1995-2003,KENYA,western,Kisumu,0.5-65 ,years,37,AL,Sanger ,symptomatic,37,-,-,-,missing,"S485K, N498I,L505F, W528C, R529K, N530K, V568G, A578S, N587K, A676V, T677K, T677R, T677S, L678V",none,open,0.0234,37.906
+296,29582728,2018,1995-2003,KENYA,coastal,Malindi,0.5-66,years,27,AL,Sanger ,symptomatic,27,-,-,-,missing,"A504G,L505F, E509G, N530Y, G592E, E596R, A676V, L678V",none,open,0.0234,37.906
+297,29582728,2018,2013,KENYA,western,kisumu,0.5-66,years,41,AL,Sanger ,symptomatic,41,-,-,-,missing,"E509G, V568G, D584Y, D585K, T677R",none,open,0.0234,37.906
+298,29582728,2018,2013,KENYA,western,Kombewa,0.5-66,years,47,AL,Sanger ,symptomatic,47,-,-,-,missing,"A578S, N585K, N609L, A676V, T677R, L678V",none,open,0.0234,37.906
+299,29582728,2018,2013,KENYA,western,Kericho,0.5-66,years,43,AL,Sanger ,symptomatic,43,-,-,-,missing,"E509G, N585K, Y616N, E620K, R622G",none,open,0.0234,37.906
+300,29582728,2018,2013,KENYA,western,Kisii,0.5-66,years,47,AL,Sanger ,symptomatic,47,-,-,-,missing,"A578S, N585K",none,open,0.0234,37.906
+301,29582728,2018,2013,KENYA,coastal,malindi,0.5-66,years,39,AL,Sanger ,symptomatic,39,-,-,-,missing,"L505F, S522R, N530I, N531I, S536L, R539K, P570L, N585K, L598F, T677K, T677A,",none,open,0.0234,37.906
+302,29582728,2018,2013,KENYA,Rift Valley,Marigat,0.5-66,years,34,AL,Sanger ,symtomatic,34,-,-,-,missing,"L505F, E509G, N585K",none,open,0.0234,37.906
+303,34111412,2021,2018-2019,KENYA,coastal,kilifi,2-12years,years,217,AL,Illumina,symptomatic,211,-,-,-,wellcome saner institute,"D399N, A486S, C542R, G665S, A578S",none,open,0.0234,37.906
+304,25986047,2015,2013,ETHIOPIA,Goma,Jimma,≥1,years,271,AL,sanger sequencing,symptomatic,25,M476I,non-synonymus,0,missing,N531I,none,open,9.145,40.489
+305,37349311,2023,2017-2018,ZANZIBAR,"Ugunja & Pembamicheweni,chake,mkoani,magharibi,kusini",,missing,missing,518,AL,Illumina NextSeq 500,Symptomatic & Asymptomatic,265,I543T,non-synonymus,0,missing,-,Percentage,open,-6.133,39.317
+306,37349311,2023,2017-2018,ZANZIBAR,"Ugunja & Pembamicheweni,chake,mkoani,magharibi,kusini",,missing,missing,518,AL,Illumina NextSeq 500,Symptomatic & Asymptomatic,265,R539T,non-synonymus,0,missing,-,Percentage,open,-6.133,39.317
+307,37349311,2023,2017-2018,ZANZIBAR,"Ugunja & Pembamicheweni,chake,mkoani,magharibi,kusini",,missing,missing,518,AL,Illumina NextSeq 500,Symptomatic & Asymptomatic,265,Y493H,non-synonymus,0,missing,-,Percentage,open,-6.133,39.317
+308,30898164,2019,2016,TANZANIA,Pwani,Kibaha,0.5-10,years,80,AL,Sanger ,Symptomatic,319,-,-,-,missing,-,none,open,6.369,34.889
+309,30898164,2019,2016,TANZANIA,Tanga,Mkuzi,0.5-10,years,88,AL,Sanger ,Symptomatic,319,-,-,-,missing,R471S,none,open,6.369,34.889
+310,30898164,2019,2016,TANZANIA,morogoro,Mlimba,0.5-10,years,88,AL,Sanger ,Symptomatic,319,-,-,-,missing,"A578S, E433D",none,open,6.369,34.889
+311,30898164,2019,2016,TANZANIA,Kigoma,Ujiji,0.5-10,years,88,AL,Sanger ,Symptomatic,319,-,-,-,missing,"I416V, Q613E",none,open,6.369,34.889
+312,10.2139/SSRN.4617870,2023,2000-2007,KENYA,missing,missing,missing,missing,,AL,Illumina HiSeq X,missing,54,R539T,Non-synonymous,4.76,missing,-,percentage,open,0.0234,37.906
+313,10.2139/SSRN.4617870,2023,2000-2007,KENYA,missing,missing,missing,missing,,AL,Illumina HiSeq X,missing,54,A675V,Non-synonymous,7.14,missing,-,percentage,open,0.0234,37.906
+314,10.2139/SSRN.4617870,2023,2010,ETHIOPIA,missing,missing,missing,missing,,AL,Illumina HiSeq X,missing,9,-,-,-,missing,-,,open,9.145,40.489
+315,10.2139/SSRN.4617870,2023,2011-2012,TANZANIA,missing,missing,missing,missing,,AL,Illumina HiSeq X,missing,8,-,-,-,missing,-,,open,6.369,34.889
+316,10.12688/wellcomeopenres.17656.1,2022,1994-2018,KENYA,Kilifi,"kilifi, ngerenya, junju",<15 ,years,1245,AL,Illumina Miseq,symptomatic/ asymtomatic,1146,-,-,-,Wellcome Sanger Institute,"I354V, A486S, V487A, S522C, A578S, A582V, S600A, I634L, V666L, A676S",none,open,0.0234,37.906
+317,10.1101/2021.01.27.428390,2021,2012-2015,RWANDA,missing,missing,missing,-,927,AL,Illumina MiSeq,Asymptomatic & symptomatic,927,C469Y,non-synonymous,1,Pastuer Institute Paris,"M460I, V487I, A578V, A626E, G592E+V637I",raw_counts,open,1.94,29.874
+318,10.1101/2021.01.27.428390,2021,2012-2015,RWANDA,missing,missing,missing,-,927,AL,Illumina MiSeq,Asymptomatic & symptomatic,927,R561H,non-synonymous,20,Pastuer Institute Paris,"C469F, R513L, A578S, P667R",raw_counts,open,1.94,29.874
+319,10.1101/2021.01.27.428390,2021,2012-2015,RWANDA,missing,missing,missing,-,927,AL,Illumina MiSeq,Asymptomatic & symptomatic,927,P574L,non-synonymous,1,Pastuer Institute Paris,"V555A, R575I, E605K, E651K",raw_counts,open,1.94,29.874
+320,10.1101/2021.01.27.428390,2021,2016-2017,SOMALIA,missing,missing,missing,-,138,AL,Illumina MiSeq,Asymptomatic & symptomatic,138,R622I,non-synonymous,1,Pastuer Institute Paris,,raw_counts,open,5.152,46.199
+321,10.1101/2021.01.27.428390,2021,"2011, 2012, 2015",TANZANIA,missing,missing,missing,-,235,AL,Illumina MiSeq,Asymptomatic & symptomatic,235,-,-,-,Pastuer Institute Paris,"L463S, M476I, G496S, V510M, E556K, M562T, E602D",none,open,6.369,34.889
+322,,,,,,,,,,,,,,,-,,,,,,,
+323,10.1101/2021.01.27.428390,2021,"2015, 2016, 2019",BURUNDI,missing,missing,missing,-,389,ASAQ,Illumina MiSeq,Asymptomatic & symptomatic,389,-,-,-,Pastuer Institute Paris,-,none,open,3.373,29.919
+324,10.1101/2021.01.27.428390,2021,"2015, 2016, 2019",BURUNDI,missing,missing,missing,-,389,ASAQ,Illumina MiSeq,Asymptomatic & symptomatic,389,-,-,-,Pastuer Institute Paris,-,none,open,3.373,29.919
+325,37640962,2023,2017-2018,ETHIOPIA,Amhara,metema,0-99,,598,AL,Illumina NextSeq 550,symptomatic,105,R622I,non-synonymous,6.8,"Brown University, USA",-,percentage,open,9.145,40.489
+326,37640962,2023,2017-2018,ETHIOPIA,Amhara,Quara,0-99,,598,AL,Illumina NextSeq 550,symptomatic,60,R622I,non-synonymous,1.9,"Brown University, USA",-,percentage,open,9.145,40.489
+327,37640962,2023,2017-2018,ETHIOPIA,Amhara,Tegede,0-99,,598,AL,Illumina NextSeq 550,symptomatic,105,R622I,non-synonymous,28.3,"Brown University, USA",-,percentage,open,9.145,40.489
+328,37640962,2023,2017-2018,ETHIOPIA,Amhara,west Armachiho,0-99,,598,AL,Illumina NextSeq 550,symptomatic,72,R622I,non-synonymous,7.5,"Brown University, USA",-,percentage,open,9.145,40.489
+329,37640962,2023,2017-2018,ETHIOPIA,Gambela,Itang,0-99,,83,AL,Illumina NextSeq 550,symptomatic,11,R622I,non-synonymous,13.9,"Brown University, USA",-,percentage,open,9.145,40.489
+330,37640962,2023,2017-2018,ETHIOPIA,Gambela,Kule,0-99,,83,AL,Illumina NextSeq 550,symptomatic,22,R622I,non-synonymous,0.3,"Brown University, USA",-,percentage,open,9.145,40.489
+331,37640962,2023,2017-2018,ETHIOPIA,Tigray,Ahferom,0-99,,239,AL,Illumina NextSeq 550,symptomatic,13,R622I,non-synonymous,11.81,"Brown University, USA",-,percentage,open,9.145,40.489
+332,37640962,2023,2017-2018,ETHIOPIA,Tigray,Aseged Tsimbila,0-99,,239,AL,Illumina NextSeq 550,symptomatic,41,R622I,non-synonymous,1.3,"Brown University, USA",-,percentage,open,9.145,40.489
+333,37640962,2023,2017-2018,ETHIOPIA,Tigray,Gulomekeda,0-99,,239,AL,Illumina NextSeq 550,symptomatic,13,R622I,non-synonymous,8.2,"Brown University, USA",-,percentage,open,9.145,40.489
+334,37640962,2023,2017-2018,ETHIOPIA,Tigray,Kafta Humera,0-99,,239,AL,Illumina NextSeq 550,symptomatic,28,R622I,non-synonymous,6.61,"Brown University, USA",-,percentage,open,9.145,40.489
+335,37640962,2023,2017-2018,ETHIOPIA,Tigray,Laelay Adiabo,0-99,,239,AL,Illumina NextSeq 550,symptomatic,16,R622I,non-synonymous,11.8,"Brown University, USA",-,percentage,open,9.145,40.489
+336,37640962,2023,2017-2018,ETHIOPIA,Tigray,Tahtay Adiabo,0-99,,239,AL,Illumina NextSeq 550,symptomatic,14,R622I,non-synonymous,16.9,"Brown University, USA",-,percentage,open,9.145,40.489
+337,38339833,2024,2019-2020,ETHIOPIA,North-western highlands,Gondor,all ages,years,198,AL,Illumina NextSeq 550,Asymptomatic & Symptomatic,168,-,-,0,University of Notre Dame Genomics and Bioinformatics Core Facility,-,-,closed,9.145,40.489
+338,38339833,2024,2019,ETHIOPIA,Central ,Ziway,all ages,years,56,AL,Illumina NextSeq 550,Asymptomatic & Symptomatic,34,-,-,0,University of Notre Dame Genomics and Bioinformatics Core Facility,-,-,closed,9.145,40.489
